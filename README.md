@@ -36,4 +36,4 @@ PURPOSE:
 
 This project was created to demonstrate the basic concepts of C++ by building a simple system for managing library books. It helps users perform common library tasks while improving programming and problem-solving skills.
 
-CREATED BY:Seema Akbar student of CS
+CREATED BY:Seema Akbar student of CS 2nd semester
